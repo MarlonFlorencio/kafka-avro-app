@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "name": "endereco",
+      "type": "string"
+    },
+    {
+      "name": "numero",
+      "type": "string"
+    },
+    {
+      "name": "cidade",
+      "type": "string"
+    },
+    {
+      "name": "status",
+      "type": "string"
+    }
+  ],
+  "name": "Entrega",
+  "namespace": "com.github.marlonflorencio.kafka.model",
+  "type": "record"
+}
